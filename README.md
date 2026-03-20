@@ -4,49 +4,15 @@ About This Project: I created this project as a personal data analysis project t
 
 This project demonstrates my ability to: Clean and analyze real-world datasets, Perform exploratory data analysis (EDA), Create data visualizations, Identify trends and patterns in housing data, Work with Python data science libraries
 
-Tools Used
+Tools Used: Python, Pandas, NumPy, Matplotlib / Seaborn, Jupyter Notebook
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
-
-Analysis Process
-
-My workflow for this project included:
-
-Importing and cleaning the dataset
-
-Exploring distributions of prices and listings
-
-Comparing borough-level differences
-
-Visualizing pricing patterns
-
-Drawing conclusions from the results
+My workflow for this project included: Importing and cleaning the dataset, exploring distributions of prices and listings, comparing borough-level differences, visualizing pricing patterns, drawing conclusions from the results
 
 Key Insights
 
-Manhattan showed the highest average listing prices
+Manhattan showed the highest average listing prices. Entire apartments dominate higher price ranges. Listing density appears concentrated in tourist-heavy areas. Some boroughs show significantly lower average prices
 
-Entire apartments dominate higher price ranges
-
-Listing density appears concentrated in tourist-heavy areas
-
-Some boroughs show significantly lower average prices
-
-How to View the Project
-
-Download or clone the repository
-
-Open the Jupyter notebook
-
-Run the cells to reproduce the analysis
+How to View the Project: Download or clone the repository, Open the Jupyter notebook, Run the cells to reproduce the analysis
 
 Why I Built This
 
@@ -54,15 +20,7 @@ I built this project to practice data analysis outside of school and improve my 
 
 Future Improvements
 
-Some things I would like to add later:
-
-Interactive maps (Folium or Plotly)
-
-Statistical modeling of price drivers
-
-Time trend analysis
-
-More advanced visualizations
+Some things I would like to add later: Interactive maps (Folium or Plotly), Statistical modeling of price drivers, Time trend analysis, and just more advanced visualizations
 
 Author
 
